@@ -5,15 +5,34 @@ body {
   font-family: Lato, sans-serif;
 }
 
+<<<<<<< HEAD
 .about {
+=======
+.aaa {
+>>>>>>> 460f54e (refactor(basic-1.1): indents in two spaces)
   width: 500px;
   margin: 0 auto;
   display: block;
   text-align: right;
 }
 
+<<<<<<< HEAD
 .about img {
   width: 100%;
+=======
+.aaa img {
+  width: 100%;
+}
+
+.aaa .more_inf {
+  font-family: fantasy, cursive;
+}
+
+@media (max-width: 768px) {
+  .aaa {
+    text-align: center;
+  }
+>>>>>>> 460f54e (refactor(basic-1.1): indents in two spaces)
 }
 
 .about .more_inf {
